@@ -6,18 +6,26 @@ Welcome to my GitHub profile! I'm passionate about creating web applications. Cu
 
 ## 🚀 Projects
 
-- [**Resume Website**](https://github.com/MassimoNodin/Resume): A personal website to showcase my personality and projects.
-- [**ClipsTimeline**](https://github.com/MassimoNodin/ClipsTimeline): A project aimed at managing and displaying video clips efficiently.
-- [**Discord Reviewer**](https://github.com/MassimoNodin/discord-reviewer): A Python bot designed to assist with reviewing content on Discord.
-- [**Angular Package Manager**](https://github.com/MassimoNodin/angular-package-manager): A tool to manage Angular packages seamlessly.
-- [**Roads and Tracks**](https://github.com/MassimoNodin/roads-and-tracks): A Python project focusing on mapping roads and tracks.
-- [**Spell and Assign**](https://github.com/MassimoNodin/spell-and-assign): A Python application for spelling and assignment tasks.
+- [**ClipsTimeline**](https://github.com/MassimoNodin/ClipsTimeline)  
+  An efficient video management tool that processes, compresses, stores, and manages video clips. It integrates FFmpeg for video compression, Whisper for audio transcription, and SQLite for database management, streamlining workflows into a cohesive system.
+
+- [**Discord Reviewer**](https://github.com/MassimoNodin/discord-reviewer)  
+  A Python-based Discord bot designed to assist with content review processes. It automates moderation tasks, facilitates community engagement, and ensures streamlined communication within Discord servers.
+
+- [**Angular Package Manager**](https://github.com/MassimoNodin/angular-package-manager)  
+  A tool to manage packages seamlessly. It supports the development process of Angular-based applications through reusable, easy-to-use packages, enhancing efficiency and scalability.
+
+- [**Roads and Tracks**](https://github.com/MassimoNodin/roads-and-tracks)  
+  A Python project focusing on mapping roads and tracks. It utilizes geospatial data to analyze and visualize transportation networks, aiding in urban planning and infrastructure development.
+
+- [**Spell and Assign**](https://github.com/MassimoNodin/spell-and-assign)  
+  A Python application which creates a crude spell checker demonstrating rudametary spell checking functionality inside of time complexity constraints. It also implements a tool for assigning a group of people to different tasks based on their preferences.
 
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: Angular
-- **Tools**: Git, GitHub
+- **Tools**: Git, GitHub, Sqlite
 
 ## 📫 Connect with Me
 
