@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about creating web applications. Cu
   An efficient video management tool that processes, compresses, stores, and manages video clips. It integrates FFmpeg for video compression, Whisper for audio transcription, and SQLite for database management, streamlining workflows into a cohesive system.
 
 - [**Discord Reviewer**](https://github.com/MassimoNodin/discord-reviewer)  
-  A Python-based Discord bot designed to assist with content review processes. It automates moderation tasks, facilitates community engagement, and ensures streamlined communication within Discord servers.
+  A Python-based Discord bot for advanced content review and moderation. It now supports custom moderation commands, automated content filtering, detailed logging, and enhanced community engagement tools, and integrates GitHub Webhooks for real-time repository event notifications—making it a robust solution for managing Discord servers.
 
 - [**Angular Package Manager**](https://github.com/MassimoNodin/angular-package-manager)  
   A tool to manage packages seamlessly. It supports the development process of Angular-based applications through reusable, easy-to-use packages, enhancing efficiency and scalability.
@@ -21,11 +21,14 @@ Welcome to my GitHub profile! I'm passionate about creating web applications. Cu
 - [**Spell and Assign**](https://github.com/MassimoNodin/spell-and-assign)  
   A Python application which creates a crude spell checker demonstrating rudametary spell checking functionality inside of time complexity constraints. It also implements a tool for assigning a group of people to different tasks based on their preferences.
 
+- [**2025W1-Commitment**](https://github.com/Monash-FIT3170/2025W1-Commitment)  
+  A university project for the Monash FIT3170 unit, developing "gitgauge", an AI-driven platform using Tauri (Rust/Svelte) to analyze Git contributions for fair assessment of student software projects. It provides educators with data-driven insights, visualizations, and customizable scaling for grading.
+
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: Angular
-- **Tools**: Git, GitHub, Sqlite
+- **Tools**: Git, GitHub, Sqlite, GitHub Webhooks
 
 ## 📫 Connect with Me
 
