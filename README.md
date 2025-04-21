@@ -24,6 +24,9 @@ Welcome to my GitHub profile! I'm passionate about creating web applications. Cu
 - [**2025W1-Commitment**](https://github.com/Monash-FIT3170/2025W1-Commitment)  
   A university project for the Monash FIT3170 unit, developing "gitgauge", an AI-driven platform using Tauri (Rust/Svelte) to analyze Git contributions for fair assessment of student software projects. It provides educators with data-driven insights, visualizations, and customizable scaling for grading.
 
+- [**Git Manager**](https://github.com/MassimoNodin/git-manager)  
+  A simple command-line tool to manage multiple Git user configurations (user.name and user.email) easily. Switch between profiles like 'work' and 'personal' with a single command.
+
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, TypeScript, JavaScript, HTML, CSS
