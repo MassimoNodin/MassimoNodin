@@ -4,6 +4,71 @@
 
 Welcome to my GitHub profile! I'm passionate about creating web applications. Currently, I'm working on projects that showcase my skills and interests.
 
+## 🎬 In Progress
+
+<details>
+<summary><strong>🎮 Clipstream - Gaming Community Video Platform</strong></summary>
+
+A self-hosted video platform designed for gaming communities with AI-powered discovery and intelligent video processing.
+
+**Tech Stack**: Rust (Axum) • TypeScript (Next.js) • PostgreSQL • MinIO • Redis • FFmpeg • OpenAI
+
+### 🏗️ Core Infrastructure
+| Component | Status | Description |
+|-----------|--------|-------------|
+| Next.js Frontend | 🚧 In Progress | TypeScript-based frontend with modern UI |
+| Axum Backend API | 📝 Planned | Rust backend with SQLx connection pooling |
+| PostgreSQL Database | 📝 Planned | Schema design with pgvector for embeddings |
+| MinIO Object Storage | 📝 Planned | S3-compatible storage for video assets |
+| Redis Job Queue | 📝 Planned | Background processing coordination |
+| Docker Compose Setup | 📝 Planned | Complete containerized deployment |
+
+### 🔐 Authentication & Security
+| Component | Status | Description |
+|-----------|--------|-------------|
+| NextAuth.js Integration | ✅ Complete | Google OAuth sign-in flow |
+| JWT Token Management | 📝 Planned | Backend token verification system |
+| Role-based Permissions | 📝 Planned | Owner/Admin/Creator/Viewer roles |
+
+### 🎥 Video Processing Pipeline
+| Component | Status | Description |
+|-----------|--------|-------------|
+| Direct Upload to MinIO | 📝 Planned | Presigned URL upload system |
+| 5-Stage Processing | 📝 Planned | Automated video processing workflow |
+| Duplicate Detection | 📝 Planned | Hash-based duplicate identification |
+| Multi-bitrate Transcoding | 📝 Planned | FFmpeg-based adaptive streaming |
+| Speech-to-Text | 📝 Planned | Audio transcription for searchability |
+
+### 🤖 AI & Intelligence Features
+| Component | Status | Description |
+|-----------|--------|-------------|
+| Embedding Generation | 📝 Planned | OpenAI-based content similarity |
+| Similar Clip Detection | 📝 Planned | AI-powered content recommendations |
+| DTW Algorithm | 📝 Planned | Trimmed clip detection system |
+| POV Recognition | 📝 Planned | Different perspective identification |
+| Timeline View | 📝 Planned | Visual clip alignment interface |
+
+### 📱 Community & Social Features
+| Component | Status | Description |
+|-----------|--------|-------------|
+| Stream Management | 📝 Planned | Private gaming community groups |
+| Invite System | 📝 Planned | Controlled access with invite links |
+| Search Functionality | 📝 Planned | Content and speech-based search |
+| Social Interactions | 📝 Planned | Likes, shares, and engagement |
+
+### ⚡ Production & Scaling
+| Component | Status | Description |
+|-----------|--------|-------------|
+| Horizontal Scaling | 📝 Planned | Load-balanced multi-instance setup |
+| Monitoring & Health Checks | 📝 Planned | Production observability |
+| CDN Integration | 📝 Planned | Global content delivery |
+
+**Target**: Self-hosted gaming communities seeking intelligent video management with full data control
+
+**Repository**: [clipstream](https://github.com/MassimoNodin/clipstream)
+
+</details>
+
 ## 🚀 Projects
 
 - [**ClipsTimeline**](https://github.com/MassimoNodin/ClipsTimeline)  
