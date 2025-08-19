@@ -17,8 +17,8 @@ A self-hosted video platform designed for gaming communities with AI-powered dis
 | Component | Status | Description |
 |-----------|--------|-------------|
 | Next.js Frontend | 🚧 In Progress | TypeScript-based frontend with modern UI |
-| Axum Backend API | 📝 Planned | Rust backend with SQLx connection pooling |
-| PostgreSQL Database | 📝 Planned | Schema design with pgvector for embeddings |
+| Axum Backend API | 🚧 In Progress | Rust backend with SQLx connection pooling |
+| PostgreSQL Database | 🚧 In Progress | Schema design with pgvector for embeddings |
 | MinIO Object Storage | 📝 Planned | S3-compatible storage for video assets |
 | Redis Job Queue | 📝 Planned | Background processing coordination |
 | Docker Compose Setup | 📝 Planned | Complete containerized deployment |
