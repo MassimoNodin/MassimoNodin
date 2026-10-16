@@ -1,0 +1,25 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (daily, 00:00 Australia/Sydney during standard time)
+  schedule: [{cron: "0 14 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Needs the repo scope so private contributions are included.
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/base.svg
+
+          # Options
+          user: MassimoNodin
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Australia/Sydney

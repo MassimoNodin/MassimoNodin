@@ -1,4 +1,6 @@
-# Hey, I'm Massimo 👋
+### Hi there 👋
+
+![Metrics](/assets/metrics/base.svg)
 
 I'm into F1, gaming with friends, and building software I find useful myself.
 
