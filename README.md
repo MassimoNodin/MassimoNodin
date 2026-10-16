@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Metrics](/assets/metrics/base.svg)
-
-I'm into F1, gaming with friends, and building software I find useful myself.
+I'm into F1, gaming with friends, and building software I find useful myself. Most of my current work is in Python, Rust, and TypeScript.
 
 ## What I'm working on
 
@@ -10,7 +8,9 @@ I'm into F1, gaming with friends, and building software I find useful myself.
 - **The Vault** — A self-hosted home for my gaming group's video clips.
 - **Daymark** — A dashboard I'm building for weather, football scores, and tee times.
 
-Most of my current work is in Python, Rust, and TypeScript.
+## Contributions
+
+![Metrics](/assets/metrics/base.svg)
 
 ## Get in touch
 
