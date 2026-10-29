@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hi, I'm Massimo 👋
 
-I'm into F1, gaming with friends, and building software I find useful myself. Most of my current work is in Python, Rust, and TypeScript.
+I build tools I want to use. Away from the keyboard, I'm into F1 and gaming with friends.
+
+**Tools I use:** Python · Rust · TypeScript
 
 ## What I'm working on
 
-- **[F1 Race Engineer](https://github.com/MassimoNodin/GP...T)** — A local tool I'm building to record and compare F1 25 telemetry.
+- **[F1 Race Engineer](https://github.com/MassimoNodin/GP...T)** — A telemetry-backed race engineer and dashboard for F1 25 and the 2026 Season Pack.
+- **[WinTestKit](https://github.com/MassimoNodin/wintestkit)** — A Python and VS Code toolkit for testing Windows WPF applications.
 - **The Vault** — A self-hosted home for my gaming group's video clips.
-- **Daymark** — A dashboard I'm building for weather, football scores, and tee times.
+- **[Code Deduper](https://github.com/MassimoNodin/code-deduper)** — A project focused on finding and reducing duplicated code.
 
 ## Contributions
 
